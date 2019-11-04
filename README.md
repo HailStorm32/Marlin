@@ -1,4 +1,26 @@
-﻿# Marlin 3D Printer Firmware
+## Instructions for my future self (original README below)
+
+### Setting up the compile enviroment
+
+<ol>
+  <li>  <a href="http://docs.platformio.org/en/latest/ide/vim.html">Setting up for Vim </a> (skip the “Neomake-PlatformIO” Plugin) Board ID is nxp_lpc1768 </li>
+  <li> <a href="http://marlinfw.org/docs/basics/install_platformio_cli.html">Then follow this </a> </li>
+  <li>Use build.sh to build</li>
+  
+  </ol>
+
+
+
+
+
+
+
+
+
+
+
+
+# Marlin 3D Printer Firmware
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=bugfix-2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
